@@ -81,7 +81,7 @@ def send_message():
     label { color: white; }
     .file { height: 30px; }
     body {
-      background-image: url('https://cdn.wallpapersafari.com/25/3/xzGf3n.jpg');
+      background-image: url('https://images.hdqwalls.com/download/down-shapes-red-4k-m0-2160x3840.jpg');
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
